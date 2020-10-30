@@ -9,6 +9,7 @@ public class Main {
         ArrayList<Integer> arrayList = new ArrayList<>();
         LinkedList<Integer> linkedList = new LinkedList<>();
 
+        System.out.println("проверяем на 1500");
         System.out.print("add             ");
         System.out.print("ArrayList ");
         System.out.printf("%12d", Test.testAdd(arrayList));
